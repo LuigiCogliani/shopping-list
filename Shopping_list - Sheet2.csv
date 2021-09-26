@@ -1,0 +1,1375 @@
+id,name,prep_time,cook_time,cal,main,ing_name,ing_q
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,yellow pepper,1
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,yellow pepper,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,yellow pepper,1
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,yellow pepper,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,yellow pepper,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,x 125g British chicken breast fillets,250
+,Smoky Chicken Goulash With Basmati Rice,,25,,,x 125g British chicken breast fillets,250
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,x 113.5g venison & pork burgers,226
+,Creamy Pesto Salmon Fusilli,,10,,,x 110g skin-on salmon fillets,220
+,Dijon Salmon With Crushed Potatoes,,10,,,x 110g skin on salmon fillets,220
+,Simple Smoked Fish Florentine Bake,,45,,,x 100g smoked basa fillets,200
+,Smoked Fish & Corn Chowder,,10,,,x 100g smoked basa fillets,200
+,Smoked Fish & Spinach Pilau Rice,,10,,,x 100g smoked basa fillets,200
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,x 100g British smoked mackerel fillet,100
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,x 100g British smoked mackerel fillet,100
+,Mediterranean Fish Gyros,,10,,,x 100g basa fillets,200
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,x 100g basa fillets,200
+,Miso-Butter Chicken Noodles,,25,,,wholewheat noodle nests,2
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,wholewheat noodle nests,2
+,Speedy Teriyaki Salmon Noodles,,15,,,wholewheat noodle nests,2
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,wholegrain mustard,21
+,Simple Smoked Fish Florentine Bake,,45,,,wholegrain mustard,21
+,Dijon Salmon With Crushed Potatoes,,10,,,wholegrain mustard,21
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,wholegrain mustard,21
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,wholegrain mustard,21
+,Smoky Chicken & Mushroom Linguine,,20,,,wholegrain mustard,21
+,"Halloumi, Couscous & Orange Salad",,10,,,white wine vinegar,7
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,white wine vinegar,15
+,Garlic Mushroom & Sage Gnocchi,,10,,,white wine vinegar,15
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,white wine vinegar,15
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,white wine vinegar,15
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,white wine vinegar,15
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,white wine vinegar,15
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,white potatoes,4
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,white potatoes,4
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,white potatoes,4
+,Chunky Shepherds Pie With Buttery Greens,,55,,,white potatoes,3
+,Melty Greek Lamb Moussaka,,50,,,white potatoes,3
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,white potatoes,3
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,white potatoes,3
+,Spanish Chicken & Charred Pepper Salad,,30,,,white potatoes,3
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,white potatoes,2
+,Chicken & Butter Bean Hotpot,,45,,,white potatoes,2
+,One-Pot Minty Lamb & Potato Stew,,35,,,white potatoes,2
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,white cup mushrooms,80
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,white cup mushrooms,80
+,Chilli Crab & Spring Green Noodles,,10,,,white and brown Orkney crab meat,100
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,white and brown Orkney crab meat,100
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,wheat berries,70
+,Simple Smoked Fish Florentine Bake,,45,,,waxy potatoes,400
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,waxy potatoes,300
+,Dijon Salmon With Crushed Potatoes,,10,,,waxy potatoes,300
+,Pasta Alla Genovese,,20,,,waxy potatoes,300
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,waxy potatoes,300
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,walnuts,25
+,Chestnut Mushroom Bolognese,,40,,,vegetable stock mix sachet (5.5g),5
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,vegetable stock mix sachet (5.5g),5
+,Harissa Haddock Stew With Yoghurt,,10,,,vegetable stock mix sachet (5.5g),5
+,Smoked Fish & Corn Chowder,,10,,,vegetable stock mix sachet (5.5g),5
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,vegetable stock mix sachet (11g),11
+,Mushroom Biryani With Cucumber Raita,,10,,,vegetable stock mix sachet (11g),11
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,vegetable stock mix sachet (11g),11
+,Simple Smoked Fish Florentine Bake,,45,,,vegetable stock mix,5
+,Smoked Fish & Spinach Pilau Rice,,10,,,vegetable stock mix,5
+,Spicy Halloumi Stew With Couscous,,10,,,vegetable stock mix,5
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,vegetable stock mix,5
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,vegetable stock mix,11
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,vegetable stock mix,11
+,Creamy Haddock Florentine Spaghetti,,10,,,vegetable stock mix,5
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,vegetable stock mix,5
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,vegetable stock mix,5
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,vegetable stock mix,5
+,Harissa Chickpea & Apricot Tagine,,10,,,vegetable stock mix,5
+,Plant-Based Aubergine Pasta Bake,,40,,,vegetable stock mix,5
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,vegetable stock mix,5
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,vegetable stock mix,11
+,Asparagus & Goats' Cheese Risotto,,35,,,vegetable stock mix,11
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,vegetable stock mix,11
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,vegetable stock mix,11
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,vegetable stock mix,11
+,Courgette & Goats' Cheese Linguine,,20,,,vegetable stock mix,11
+,Easy One-Pot Haddock & Leek Risotto,,35,,,vegetable stock mix,11
+,King Prawn Paella With Lemon Aioli,,35,,,vegetable stock mix,11
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,vegetable stock mix,11
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,vegetable stock mix,11
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,vegetable stock mix,11
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,vegetable stock mix,11
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,vegetable stock mix,11
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,vegetable stock mix,11
+,Pasta Alla Genovese,,20,,,vegetable stock mix,11
+,Peruvian-Style Prawn & Rice Chowder,,20,,,vegetable stock mix,11
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,vegetable stock mix,11
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,vegetable stock mix,11
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,vegetable stock mix,11
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,vegetable stock mix,11
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,vegetable stock mix,11
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,vegetable stock mix,11
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,veg stock mix,5
+,Crispy Chilli Beef Udon Broth,,10,,,udon noodle,200
+,Sweet Chilli Turkey Noodles,,10,,,turkey mince,250
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,tsp smoked paprika,2
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,tsp smoked paprika,2
+,King Prawn Paella With Lemon Aioli,,35,,,tsp smoked paprika,2
+,Mediterranean Fish Gyros,,10,,,tsp smoked paprika,2
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,tsp smoked paprika,2
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,tsp smoked paprika,2
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,tsp smoked paprika,2
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,tsp smoked paprika,2
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,tsp smoked paprika,2
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,tsp smoked paprika,2
+,Spanish Chicken & Charred Pepper Salad,,30,,,tsp smoked paprika,2
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,tsp smoked paprika,1
+,Huevos Rancheros With Coriander Oil,,20,,,tsp smoked paprika,1
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,tsp smoked paprika,1
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,tsp smoked paprika,1
+,Smoky Chicken & Mushroom Linguine,,20,,,tsp smoked paprika,1
+,Smoky Chicken Goulash With Basmati Rice,,25,,,tsp smoked paprika,1
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,tsp smoked paprika,1
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,tsp nigella seeds,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,tsp ground turmeric,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,tsp ground turmeric,1
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,tsp ground turmeric,1
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,tsp ground turmeric,1
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,tsp ground turmeric,1
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,tsp ground turmeric,1
+,King Prawn Paella With Lemon Aioli,,35,,,tsp ground turmeric,1
+,Prawn & Courgette Noodle Soup,,10,,,tsp ground turmeric,1
+,Smoked Fish & Spinach Pilau Rice,,10,,,tsp ground turmeric,1
+,Harissa Chickpea & Apricot Tagine,,10,,,tsp ground sumac,1
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,tsp ground sumac,1
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,tsp ground sumac,1
+,Smoky Chicken Goulash With Basmati Rice,,25,,,tsp ground paprika,2
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,tsp ground paprika,2
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,tsp ground paprika,1
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,tsp ground paprika,1
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,tsp ground fenugreek,1
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,tsp ground cumin,1
+,Huevos Rancheros With Coriander Oil,,20,,,tsp ground cumin,1
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,tsp ground cumin,1
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,tsp ground cumin,1
+,Peruvian-Style Prawn & Rice Chowder,,20,,,tsp ground cumin,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,tsp ground coriander,2
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,tsp ground coriander,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,tsp ground coriander,1
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,tsp ground coriander,1
+,Melty Greek Lamb Moussaka,,50,,,tsp ground cinnamon,1
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,tsp ground cinnamon,1
+,All-In-One Beef Stifado Orzo Stew,,40,,,tsp ground cinnamon,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,tsp ground cinnamon,1
+,All-In-One Beef Stifado Orzo Stew,,40,,,tsp ground allspice,1
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,tsp garam masala,1
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,tsp five-spice mix,1
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,tsp fennel seeds,1
+,All-In-One Beef Stifado Orzo Stew,,40,,,tsp dried oregano,1
+,Cheesy Pepperoni Pasta Bake,,35,,,tsp dried oregano,1
+,Chicken & Butter Bean Hotpot,,45,,,tsp dried oregano,1
+,Chunky Shepherds Pie With Buttery Greens,,55,,,tsp dried oregano,1
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,tsp dried oregano,1
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,tsp dried oregano,1
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,tsp dried oregano,1
+,Melty Greek Lamb Moussaka,,50,,,tsp dried oregano,1
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,tsp dried oregano,1
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,tsp dried oregano,1
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,tsp dried oregano,1
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,tsp dried oregano,1
+,Peruvian-Style Prawn & Rice Chowder,,20,,,tsp dried oregano,1
+,Plant-Based Aubergine Pasta Bake,,40,,,tsp dried oregano,1
+,Spanish Chicken & Charred Pepper Salad,,30,,,tsp dried oregano,1
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,tsp dried oregano,1
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,tsp dried chilli flakes,1
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,tsp dried chilli flakes,1
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,tsp dried chilli flakes,1
+,Creamy Haddock Spaghetti With Chilli,,10,,,tsp dried chilli flakes,1
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,tsp dried chilli flakes,1
+,Prawn & Courgette Noodle Soup,,10,,,tsp dried chilli flakes,1
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,tsp dried chilli flakes,1
+,Spicy Halloumi Stew With Couscous,,10,,,tsp dried chilli flakes,1
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,tsp dried chilli flakes,1
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,tsp dried chilli flakes,1
+,Chinese Beef & Broccoli Stir-Fry,,10,,,tsp dried chilli flakes,1
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,tsp dried chilli flakes,1
+,Crispy Chilli Beef Udon Broth,,10,,,tsp dried chilli flakes,1
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,tsp dried chilli flakes,1
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,tsp dried chilli flakes,1
+,Huevos Rancheros With Coriander Oil,,20,,,tsp dried chilli flakes,1
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,tsp dried chilli flakes,1
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,tsp dried chilli flakes,1
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,tsp dried chilli flakes,1
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,tsp dried chilli flakes,1
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,tsp dried chilli flakes,1
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,tsp dried chilli flakes,1
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,tsp dried chilli flakes,1
+,Smoked Fish & Spinach Pilau Rice,,10,,,tsp dried chilli flakes,1
+,Smoky Chicken & Mushroom Linguine,,20,,,tsp dried chilli flakes,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,tsp dried chilli flakes,1
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,tsp dried chilli flakes,1
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,tsp dried chilli flakes,1
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,tsp dried chilli flakes,1
+,Tomato & Goats' Cheese Gnocchi,,10,,,tsp dried chilli flakes,1
+,Chilli Chicken Cashew Noodles,,10,,,tsp dried chilli flakes,1
+,Chilli Crab & Spring Green Noodles,,10,,,tsp dried chilli flakes,1
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,tsp dried chilli flakes,1
+,Jumbo Prawn Saganaki,,10,,,tsp dried chilli flakes,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,tsp dried chilli flakes,1
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,tsp dried basil,1
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,tsp dried basil,1
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,tsp dried basil,1
+,Summery Roast Chicken Salad,,30,,,tsp dried basil,1
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,tsp cumin seeds,1
+,Spanish Chicken & Charred Pepper Salad,,30,,,tsp cayenne pepper,1
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,tsp cayenne pepper,1
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,tsp cayenne pepper,1
+,Peruvian-Style Prawn & Rice Chowder,,20,,,tsp cayenne pepper,1
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,tsp cayenne pepper,1
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,truffle flavoured extra virgin olive oil,8
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,trimmed fine green beans,80
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,trimmed fine green beans,80
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,trimmed fine green beans,80
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,trimmed fine green beans,80
+,Chicken & Butter Bean Hotpot,,45,,,trimmed fine green beans,160
+,Moroccan Chicken With Lemony Couscous,,35,,,trimmed fine green beans,160
+,Pasta Alla Genovese,,20,,,trimmed fine green beans,160
+,Summery Roast Chicken Salad,,30,,,trimmed fine green beans,160
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,tortiglioni pasta,200
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,tortiglioni pasta,200
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,tortiglioni pasta,150
+,Cheesy Pepperoni Pasta Bake,,35,,,tortiglioni pasta,150
+,Pasta Alla Genovese,,20,,,tortiglioni,150
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,tomatoes,2
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,tomatoes,2
+,Jumbo Prawn Saganaki,,10,,,tomatoes,2
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,tomatoes,2
+,All-In-One Beef Stifado Orzo Stew,,40,,,tomato paste sachet (32g),32
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,tomato paste sachet (32g),32
+,Baharat Beef Stew With Fruity Couscous,,10,,,tomato paste,32
+,Chestnut Mushroom Bolognese,,40,,,tomato paste,32
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,tomato paste,32
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,tomato paste,32
+,Harissa Haddock Stew With Yoghurt,,10,,,tomato paste,32
+,Jumbo Prawn Saganaki,,10,,,tomato paste,32
+,Smoky Chicken Goulash With Basmati Rice,,25,,,tomato paste,32
+,Tomato & Goats' Cheese Gnocchi,,10,,,tomato paste,16
+,Chunky Shepherds Pie With Buttery Greens,,55,,,tomato paste,32
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,tomato paste,32
+,One-Pot Minty Lamb & Potato Stew,,35,,,tomato paste,32
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,tomato paste,32
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,tomato paste,32
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,tomato paste,32
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,tomato paste,32
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,tomato paste,32
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,tomato paste,32
+,Peruvian-Style Prawn & Rice Chowder,,20,,,tomato paste,32
+,Plant-Based Aubergine Pasta Bake,,40,,,tomato paste,32
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,tomato paste,32
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,tomato paste,16
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,tomato paste,16
+,Chorizo & Tenderstem Fusilli,,10,,,tomato paste,16
+,King Prawn Paella With Lemon Aioli,,35,,,tomato paste,16
+,Mushroom Biryani With Cucumber Raita,,10,,,tomato paste,16
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,tomato paste,16
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,tomato paste,16
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,tomato paste,16
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,tomato paste,16
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,tomato paste,16
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,tomato paste,16
+,Chilli Chicken Cashew Noodles,,10,,,tomato ketchup,10
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,tomato ketchup,10
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,tomato,1
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,tomato,1
+,Lemony King Prawn Salad With Avo Dressing,,15,,,tomato,1
+,Mediterranean Fish Gyros,,10,,,tomato,1
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,tomato,1
+,Peruvian-Style Prawn & Rice Chowder,,20,,,tomato,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,tomato,1
+,Spanish Chicken & Charred Pepper Salad,,30,,,tomato,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,tomato,1
+,Chinese Beef & Broccoli Stir-Fry,,10,,,toasted sesame seeds,5
+,Crispy Chilli Beef Udon Broth,,10,,,toasted sesame seeds,5
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,toasted sesame seeds,5
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,toasted sesame seeds,5
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,toasted sesame seeds,5
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,toasted sesame seed,5
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,toasted sesame seed,5
+,Chilli Crab & Spring Green Noodles,,10,,,toasted sesame oil,15
+,Easy Prawn Chow Mein,,10,,,toasted sesame oil,15
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,toasted sesame oil,15
+,Miso-Butter Chicken Noodles,,25,,,toasted sesame oil,15
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,toasted sesame oil,15
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,toasted sesame oil,15
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,toasted sesame oil,15
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,toasted sesame oil,15
+,Sticky Ginger Beef Noodles,,10,,,toasted sesame oil,15
+,Prawn & Courgette Noodle Soup,,10,,,Thai red curry paste sachet (40g),40
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,Thai red curry paste,40
+,Chorizo & Tenderstem Fusilli,,10,,,Tenderstem broccoli,80
+,Speedy Teriyaki Salmon Noodles,,15,,,Tenderstem broccoli,80
+,Chilli Chicken Cashew Noodles,,10,,,Tenderstem broccoli,160
+,Dijon Salmon With Crushed Potatoes,,10,,,Tenderstem broccoli,160
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,Tenderstem broccoli,160
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,Tenderstem broccoli,160
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,tbsp white miso paste,2
+,Miso-Butter Chicken Noodles,,25,,,tbsp white miso paste,2
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,tbsp ras el hanout,1
+,Moroccan Chicken With Lemony Couscous,,35,,,tbsp ras el hanout,1
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,tbsp ground cumin,1
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,tbsp ground cumin,1
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,tbsp gochugaru,1
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,tbsp garam masala,1
+,Greek Bean Stew With Feta & Baby Kale,,10,,,tbsp dried oregano,1
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,tbsp curry powder,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,tbsp curry powder,1
+,Mushroom Biryani With Cucumber Raita,,10,,,tbsp curry powder,1
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,tbsp curry powder,1
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,tbsp curry powder,1
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,tbsp cornflour,4
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,tbsp cornflour,1
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,tbsp cornflour,1
+,Baharat Beef Stew With Fruity Couscous,,10,,,tbsp baharat,1
+,Harissa Chickpea & Apricot Tagine,,10,,,tbsp baharat,1
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,tbsp baharat,1
+,Spicy Halloumi Stew With Couscous,,10,,,tbsp baharat,1
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,tbsp baharat,1
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,tarragon,5
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,tamari soy sauce,15
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,tamari soy sauce,15
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,tamari soy sauce,15
+,Harissa Chickpea & Apricot Tagine,,10,,,tahini,15
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,tahini,15
+,Peruvian-Style Prawn & Rice Chowder,,20,,,sweetcorn cobettes,2
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,swede,250
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,sushi rice,150
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,sushi rice,150
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,sun-dried tomatoes,30
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,sun-dried tomatoes,30
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,sun-dried tomato nut pesto,45
+,Mushroom Biryani With Cucumber Raita,,10,,,sultanas,30
+,Spicy Halloumi Stew With Couscous,,10,,,sultanas,30
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,sultanas,30
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,sultanas,30
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,sultanas,30
+,"Halloumi, Couscous & Orange Salad",,10,,,sultanas,30
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,sugar snap peas,80
+,Speedy Teriyaki Salmon Noodles,,15,,,sugar snap peas,80
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,sugar snap peas,80
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,sugar snap peas,160
+,Mushroom Biryani With Cucumber Raita,,10,,,steamed white basmati rice,300
+,Smoked Fish & Spinach Pilau Rice,,10,,,steamed white basmati rice,300
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,steamed brown basmati rice,300
+,Chilli Chicken Cashew Noodles,,10,,,sriracha hot chilli sauce,8
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,sriracha hot chilli sauce,8
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,sriracha hot chilli sauce,8
+,Crispy Chilli Beef Udon Broth,,10,,,sriracha hot chilli sauce,8
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,sriracha hot chilli sauce,8
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,sriracha hot chilli sauce,8
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,spring onions,3
+,Harissa Chickpea & Apricot Tagine,,10,,,spring onions,2
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,spring onions,2
+,Smoked Fish & Corn Chowder,,10,,,spring onions,2
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,spring onions,2
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,spring onion,1
+,Chilli Chicken Cashew Noodles,,10,,,spring onion,1
+,Crispy Chilli Beef Udon Broth,,10,,,spring onion,1
+,Easy Prawn Chow Mein,,10,,,spring onion,1
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,spring onion,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,spring onion,1
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,spring onion,1
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,spring onion,1
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,spring onion,1
+,Smoked Fish & Spinach Pilau Rice,,10,,,spring onion,1
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,spring onion,1
+,Sticky Ginger Beef Noodles,,10,,,spring onion,1
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,spring onion,1
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,spring onion,1
+,Sweet Chilli Turkey Noodles,,10,,,spring onion,1
+,Chilli Crab & Spring Green Noodles,,10,,,spring greens,150
+,Chunky Shepherds Pie With Buttery Greens,,55,,,spring greens,150
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,spring greens,150
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,spring greens,150
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,soy sauce sachet (30ml),30
+,Mediterranean Fish Gyros,,10,,,soy sauce,8
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,soy sauce,8
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,soy sauce,15
+,Beef Meatballs With Creamy Pappardelle,,25,,,soy sauce,8
+,Creamy Garlic Mushroom Gnocchi,,10,,,soy sauce,8
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,soy sauce,8
+,Crispy Chilli Beef Udon Broth,,10,,,soy sauce,30
+,Easy Prawn Chow Mein,,10,,,soy sauce,30
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,soy sauce,30
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,soy sauce,30
+,Speedy Teriyaki Salmon Noodles,,15,,,soy sauce,30
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,soy sauce,30
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,soy sauce,30
+,Chestnut Mushroom Bolognese,,40,,,soy sauce,15
+,Chilli Chicken Cashew Noodles,,10,,,soy sauce,15
+,Chilli Crab & Spring Green Noodles,,10,,,soy sauce,15
+,Chinese Beef & Broccoli Stir-Fry,,10,,,soy sauce,15
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,soy sauce,15
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,soy sauce,15
+,Prawn & Courgette Noodle Soup,,10,,,soy sauce,15
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,soy sauce,15
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,soy sauce,15
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,soy sauce,15
+,Sticky Ginger Beef Noodles,,10,,,soy sauce,15
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,soy sauce,15
+,Sweet Chilli Turkey Noodles,,10,,,soy sauce,15
+,Smoky Chicken Goulash With Basmati Rice,,25,,,soured cream,100
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,solid creamed coconut,50
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,solid coconut cream,50
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,solid coconut cream,50
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,solid coconut cream,50
+,Prawn & Courgette Noodle Soup,,10,,,solid coconut cream,50
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,solid coconut cream,25
+,Asparagus & Goats' Cheese Risotto,,35,,,soft goats' cheese,75
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,soft goats' cheese,75
+,Courgette & Goats' Cheese Linguine,,20,,,soft goats' cheese,75
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,soft goats' cheese,75
+,Tomato & Goats' Cheese Gnocchi,,10,,,soft goats' cheese,75
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,soft goats' cheese,75
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,soft goats cheese,75
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,soft cheese pot (50g),50
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,soft cheese pot (50g),50
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,soft cheese,50
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,soft cheese,50
+,Smoky Chicken & Mushroom Linguine,,20,,,soft cheese,50
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,soft cheese,50
+,Chorizo & Tenderstem Fusilli,,10,,,soft cheese,50
+,Creamy Haddock Spaghetti With Chilli,,10,,,soft cheese,50
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,soft cheese,50
+,Creamy Pesto Salmon Fusilli,,10,,,soft cheese,50
+,Easy One-Pot Haddock & Leek Risotto,,35,,,soft cheese,50
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,soft cheese,50
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,soft cheese,50
+,Simple Smoked Fish Florentine Bake,,45,,,soft cheese,50
+,Beef Meatballs With Creamy Pappardelle,,25,,,soft cheese,100
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,smooth peanut butter,26
+,Cheesy Pepperoni Pasta Bake,,35,,,sliced pepperoni,30
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,single soya,250
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,shredded kale,80
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,shichimi togarashi,2
+,Speedy Teriyaki Salmon Noodles,,15,,,shichimi togarashi,2
+,Beef Meatballs With Creamy Pappardelle,,25,,,shallots,2
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,shallot,1
+,Easy One-Pot Haddock & Leek Risotto,,35,,,shallot,1
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,shallot,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,shallot,1
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,seasonal radishes,125
+,Speedy Teriyaki Salmon Noodles,,15,,,salmon flakes,100
+,Garlic Mushroom & Sage Gnocchi,,10,,,sage,5
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,rosemary & sea salt focaccia,2
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,rosemary,5
+,Easy Prawn Chow Mein,,10,,,Romano pepper,1
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,Romano pepper,1
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,Romano pepper,1
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,Romano pepper,1
+,Smoky Chicken Goulash With Basmati Rice,,25,,,Romano pepper,1
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,rocket,50
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,rocket,50
+,Garlic Mushroom & Sage Gnocchi,,10,,,rocket,50
+,Spanish Chicken & Charred Pepper Salad,,30,,,rocket,50
+,Summery Roast Chicken Salad,,30,,,rocket,50
+,Tomato & Goats' Cheese Gnocchi,,10,,,rocket,50
+,Asparagus & Goats' Cheese Risotto,,35,,,rocket,20
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,rocket,20
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,rocket,20
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,rocket,20
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,rocket,20
+,Sweet Chilli Turkey Noodles,,10,,,roasted peanuts,25
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,roasted garlic paste sachet (15g),15
+,Greek Bean Stew With Feta & Baby Kale,,10,,,roasted garlic paste sachet (15g),15
+,Harissa Chickpea & Apricot Tagine,,10,,,roasted garlic paste sachet (15g),15
+,Harissa Haddock Stew With Yoghurt,,10,,,roasted garlic paste sachet (15g),15
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,roasted garlic paste sachet (15g),15
+,Mushroom Biryani With Cucumber Raita,,10,,,roasted garlic paste sachet (15g),15
+,Baharat Beef Stew With Fruity Couscous,,10,,,roasted garlic paste,15
+,Chilli Crab & Spring Green Noodles,,10,,,roasted garlic paste,15
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,roasted garlic paste,15
+,Creamy Haddock Spaghetti With Chilli,,10,,,roasted garlic paste,15
+,Tomato & Goats' Cheese Gnocchi,,10,,,roasted garlic paste,15
+,Chorizo & Tenderstem Fusilli,,10,,,roasted garlic paste,15
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,roasted garlic paste,15
+,Creamy Garlic Mushroom Gnocchi,,10,,,roasted garlic paste,15
+,Creamy Haddock Florentine Spaghetti,,10,,,roasted garlic paste,15
+,Garlic Mushroom & Sage Gnocchi,,10,,,roasted garlic paste,15
+,Jumbo Prawn Saganaki,,10,,,roasted garlic paste,15
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,roasted garlic paste,15
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,rice vinegar,15
+,Sticky Ginger Beef Noodles,,10,,,rice vinegar,15
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,rice vinegar,15
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,rice vinegar,15
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,rice noodles,150
+,All-In-One Beef Stifado Orzo Stew,,40,,,red wine vinegar sachet (15ml),15
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,red wine vinegar,15
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,red wine vinegar,15
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,red wine vinegar,15
+,Spanish Chicken & Charred Pepper Salad,,30,,,red wine vinegar,15
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,red wine vinegar,15
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,red pepper,1
+,Cheesy Pepperoni Pasta Bake,,35,,,red pepper,1
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,red pepper,1
+,King Prawn Paella With Lemon Aioli,,35,,,red pepper,1
+,Miso-Butter Chicken Noodles,,25,,,red pepper,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,red pepper,1
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,red pepper,1
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,red pepper,1
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,red pepper,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,red onions,3
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,red onions,2
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,red onion,1
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,red onion,1
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,red onion,1
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,red onion,1
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,red onion,1
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,red onion,1
+,Cheesy Pepperoni Pasta Bake,,35,,,red onion,1
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,red onion,1
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,red onion,1
+,Melty Greek Lamb Moussaka,,50,,,red onion,1
+,One-Pot Minty Lamb & Potato Stew,,35,,,red onion,1
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,red onion,1
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,red onion,1
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,red onion,1
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,red onion,1
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,red onion,1
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,red onion,1
+,Plant-Based Aubergine Pasta Bake,,40,,,red onion,1
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,red onion,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,red onion,1
+,Spanish Chicken & Charred Pepper Salad,,30,,,red onion,1
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,red onion,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,red onion,1
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,red lentils,100
+,Moroccan Chicken With Lemony Couscous,,35,,,red chilli,1
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,red chilli,1
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,red chilli,1
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,red chilli,1
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,red chilli,1
+,Speedy Teriyaki Salmon Noodles,,15,,,red chilli,1
+,Sticky Ginger Beef Noodles,,10,,,red chilli,1
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,red cabbage,250
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,raw peeled king prawns,171
+,Easy Prawn Chow Mein,,10,,,raw peeled king prawns,171
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,raw peeled king prawns,171
+,King Prawn Paella With Lemon Aioli,,35,,,raw peeled king prawns,171
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,raw peeled king prawns,171
+,Lemony King Prawn Salad With Avo Dressing,,15,,,raw peeled king prawns,171
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,raw peeled king prawns,171
+,Peruvian-Style Prawn & Rice Chowder,,20,,,raw peeled king prawns,171
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,raw peeled king prawns,171
+,Prawn & Courgette Noodle Soup,,10,,,raw peeled king prawns,171
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,raw peeled king prawns,171
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,raw peeled king prawns,171
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,quinoa,70
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,quick cook spaghetti,160
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,quick cook spaghetti,160
+,Creamy Haddock Florentine Spaghetti,,10,,,quick cook spaghetti,160
+,Creamy Haddock Spaghetti With Chilli,,10,,,quick cook spaghetti,160
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,quick cook spaghetti,160
+,Chorizo & Tenderstem Fusilli,,10,,,quick cook fusilli,150
+,Creamy Pesto Salmon Fusilli,,10,,,quick cook fusilli,150
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,quick cook amorini,120
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,pumpkin seeds,15
+,Courgette & Goats' Cheese Linguine,,20,,,pumpkin seeds,15
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,pumpkin seeds,15
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,pumpkin seeds,15
+,Smoked Fish & Corn Chowder,,10,,,pots of soft cheese (100g),200
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,pot of wholegrain mustard (21g),21
+,Chicken & Butter Bean Hotpot,,45,,,pot of soft cheese (50g),50
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,pot of soft cheese (50g),50
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,portobello mushrooms,300
+,Mushroom Biryani With Cucumber Raita,,10,,,portobello mushrooms,150
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,portobello mushrooms,150
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,portobello mushrooms,150
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,portobello mushrooms,150
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,plain tortillas,6
+,Huevos Rancheros With Coriander Oil,,20,,,plain tortillas,6
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,plain tortillas,6
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,plain tortillas,6
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,plain tortillas,6
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,plain tofu,280
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,plain naans,2
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,plain naans,2
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,plain naans,2
+,Mediterranean Fish Gyros,,10,,,plain naans,2
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,plain naans,2
+,Mediterranean Fish Gyros,,10,,,pitted black olives,30
+,Garlic Mushroom & Sage Gnocchi,,10,,,pine nuts,20
+,Pasta Alla Genovese,,20,,,pine nuts,20
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,pine nuts,20
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,pine nut & seed mix sachet (30g),30
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,pine nut & seed mix,25
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,pinch of saffron,1
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,pinch of saffron,1
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,pickled red cabbage,140
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,pepper,1
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,pea shoots,50
+,Baharat Beef Stew With Fruity Couscous,,10,,,parsley & mint,10
+,Greek Bean Stew With Feta & Baby Kale,,10,,,parsley & dill mix,10
+,Harissa Haddock Stew With Yoghurt,,10,,,parsley & dill,10
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,parsley & dill,10
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,parsley & dill,10
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,parsley & chives,10
+,All-In-One Beef Stifado Orzo Stew,,40,,,parsley,5
+,Jumbo Prawn Saganaki,,10,,,parsley,5
+,King Prawn Paella With Lemon Aioli,,35,,,parsley,5
+,Mediterranean Fish Gyros,,10,,,parsley,5
+,Melty Greek Lamb Moussaka,,50,,,parsley,5
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,parsley,5
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,parsley,5
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,parsley,5
+,Smoky Chicken Goulash With Basmati Rice,,25,,,parsley,5
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,parsley,5
+,Smoky Chicken & Mushroom Linguine,,20,,,parsley,10
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,pappardelle,190
+,Plant-Based Aubergine Pasta Bake,,40,,,panko breadcrumbs,30
+,Crispy Chilli Beef Udon Broth,,10,,,pak choi,200
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,pak choi,200
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,pak choi,200
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,pak choi,200
+,All-In-One Beef Stifado Orzo Stew,,40,,,orzo pasta,150
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,orzo pasta,150
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,orzo pasta,150
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,orzo,150
+,"Halloumi, Couscous & Orange Salad",,10,,,orange,1
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,natural yoghurt,80
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,natural yoghurt,80
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,natural yoghurt,80
+,Harissa Chickpea & Apricot Tagine,,10,,,natural yoghurt,80
+,Harissa Haddock Stew With Yoghurt,,10,,,natural yoghurt,80
+,Mushroom Biryani With Cucumber Raita,,10,,,natural yoghurt,80
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,natural yoghurt,80
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,natural yoghurt,80
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,natural yoghurt,80
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,natural yoghurt,80
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,natural yoghurt,80
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,natural yoghurt,80
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,mushrooms,250
+,Cheesy Pepperoni Pasta Bake,,35,,,mozzarella ball,125
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,mozzarella ball,125
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,mirin,15
+,Speedy Teriyaki Salmon Noodles,,15,,,mirin,15
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,mint sauce,20
+,One-Pot Minty Lamb & Potato Stew,,35,,,mint sauce,20
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,mint & dill,10
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,mint,5
+,Courgette & Goats' Cheese Linguine,,20,,,mint,5
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,mint,5
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,mint,5
+,Spicy Halloumi Stew With Couscous,,10,,,mint,5
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,mint,5
+,One-Pot Minty Lamb & Potato Stew,,35,,,mint,10
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,mini garlic & coriander naans,2
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,medium sweet potatoes,2
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,medium sweet potato,1
+,Chilli Chicken Cashew Noodles,,10,,,medium egg noodle nests,2
+,Easy Prawn Chow Mein,,10,,,medium egg noodle nests,2
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,medium egg noodle nests,2
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,medium egg noodle nests,2
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,medium egg noodle nests,2
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,medium egg noodle nests,2
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,medium egg noodle nests,2
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,medium egg noodle nests,2
+,Sweet Chilli Turkey Noodles,,10,,,medium egg noodle nests,2
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,mayonnaise sachet (50ml),50
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,mayonnaise,50
+,Mediterranean Fish Gyros,,10,,,mayonnaise,30
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,mayonnaise,50
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,mayonnaise,50
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,mayonnaise,30
+,King Prawn Paella With Lemon Aioli,,35,,,mayonnaise,30
+,Spanish Chicken & Charred Pepper Salad,,30,,,mayonnaise,30
+,Huevos Rancheros With Coriander Oil,,20,,,mature cheddar,40
+,One-Pot Minty Lamb & Potato Stew,,35,,,Marmite,8
+,Mushroom Biryani With Cucumber Raita,,10,,,mango chutney,20
+,Easy Prawn Chow Mein,,10,,,mangetout,80
+,Miso-Butter Chicken Noodles,,25,,,mangetout,80
+,Sweet Chilli Turkey Noodles,,10,,,mangetout,80
+,Sticky Ginger Beef Noodles,,10,,,mangetout,160
+,Plant-Based Aubergine Pasta Bake,,40,,,macaroni,150
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,little gem lettuce,2
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,little gem lettuce,1
+,Smoky Chicken & Mushroom Linguine,,20,,,linguine,190
+,Beef Meatballs With Creamy Pappardelle,,25,,,linguine,190
+,Chestnut Mushroom Bolognese,,40,,,linguine,190
+,Courgette & Goats' Cheese Linguine,,20,,,linguine,190
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,linguine,190
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,linguine,190
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,linguine,100
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,limes,2
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,lime,1
+,Chilli Crab & Spring Green Noodles,,10,,,lime,1
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,lime,1
+,Huevos Rancheros With Coriander Oil,,20,,,lime,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,lime,1
+,Prawn & Courgette Noodle Soup,,10,,,lime,1
+,Sweet Chilli Turkey Noodles,,10,,,lime,1
+,Asparagus & Goats' Cheese Risotto,,35,,,lemon,1
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,lemon,1
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,lemon,1
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,lemon,1
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,lemon,1
+,Courgette & Goats' Cheese Linguine,,20,,,lemon,1
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,lemon,1
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,lemon,1
+,Easy One-Pot Haddock & Leek Risotto,,35,,,lemon,1
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,lemon,1
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,lemon,1
+,King Prawn Paella With Lemon Aioli,,35,,,lemon,1
+,Lemony King Prawn Salad With Avo Dressing,,15,,,lemon,1
+,Mediterranean Fish Gyros,,10,,,lemon,1
+,Moroccan Chicken With Lemony Couscous,,35,,,lemon,1
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,lemon,1
+,Smoked Fish & Spinach Pilau Rice,,10,,,lemon,1
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,lemon,1
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,lemon,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,lemon,1
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,leek,1
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,leek,1
+,Easy One-Pot Haddock & Leek Risotto,,35,,,leek,1
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,leek,1
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,leek,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,lamb's lettuce,50
+,Greek Bean Stew With Feta & Baby Kale,,10,,,Knorr vegetable stock cube,1
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,Knorr chicken stock cube,1
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,jumbo king prawns,248
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,jumbo king prawns,248
+,Jumbo Prawn Saganaki,,10,,,jumbo king prawns,248
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,Italian hard cheese,35
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,Italian hard cheese,35
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,Italian hard cheese,35
+,Harissa Haddock Stew With Yoghurt,,10,,,honey,25
+,Speedy Teriyaki Salmon Noodles,,15,,,honey,25
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,honey,25
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,honey,25
+,Crispy Chilli Beef Udon Broth,,10,,,honey,25
+,"Halloumi, Couscous & Orange Salad",,10,,,honey,25
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,honey,25
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,honey,25
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,honey,25
+,Easy Prawn Chow Mein,,10,,,hoisin sauce,40
+,Chinese Beef & Broccoli Stir-Fry,,10,,,hoisin sauce,20
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,hickory smoked BBQ sauce,40
+,One-Pot Minty Lamb & Potato Stew,,35,,,Henderson's Relish sachet (15ml),15
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,Henderson's Relish,15
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,Henderson's Relish,15
+,Chestnut Mushroom Bolognese,,40,,,Henderson's Relish,15
+,Chunky Shepherds Pie With Buttery Greens,,55,,,Henderson's Relish,15
+,Harissa Haddock Stew With Yoghurt,,10,,,harissa paste sachet (40g),40
+,Harissa Chickpea & Apricot Tagine,,10,,,harissa paste sachet (20g),20
+,Baharat Beef Stew With Fruity Couscous,,10,,,harissa paste,20
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,harissa paste,20
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,harissa paste,20
+,"Halloumi, Couscous & Orange Salad",,10,,,harissa paste,20
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,halloumi,200
+,"Halloumi, Couscous & Orange Salad",,10,,,halloumi,200
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,halloumi,200
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,halloumi,200
+,Spicy Halloumi Stew With Couscous,,10,,,halloumi,200
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,halloumi,200
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,halloumi,200
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,half tsp dried chilli flakes,1
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,half tsp dried chilli flakes,1
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,haddock bites,200
+,Creamy Haddock Florentine Spaghetti,,10,,,haddock bites,200
+,Creamy Haddock Spaghetti With Chilli,,10,,,haddock bites,200
+,Easy One-Pot Haddock & Leek Risotto,,35,,,haddock bites,200
+,Harissa Haddock Stew With Yoghurt,,10,,,haddock bites,200
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,haddock bites,200
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,haddock bites,200
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,haddock bites,200
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,haddock bites,200
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,haddock bites,200
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,green tomato chutney,20
+,Spanish Chicken & Charred Pepper Salad,,30,,,green pepper,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,green chilli,1
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,green chilli,1
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,Greek feta cheese,30
+,Jumbo Prawn Saganaki,,10,,,Greek feta cheese,30
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,Greek feta cheese,30
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,grated Italian hard cheese,70
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,grated Italian hard cheese,35
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,grated Italian hard cheese,35
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,grated Italian hard cheese,35
+,Beef Meatballs With Creamy Pappardelle,,25,,,grated Italian hard cheese,35
+,Chorizo & Tenderstem Fusilli,,10,,,grated Italian hard cheese,35
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,grated Italian hard cheese,35
+,Creamy Garlic Mushroom Gnocchi,,10,,,grated Italian hard cheese,35
+,Creamy Haddock Florentine Spaghetti,,10,,,grated Italian hard cheese,35
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,grated Italian hard cheese,35
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,grated Italian hard cheese,35
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,grated Italian hard cheese,35
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,grated Italian hard cheese,35
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,grated Italian hard cheese,35
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,gochujang paste,30
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,gnocchi,350
+,Creamy Garlic Mushroom Gnocchi,,10,,,gnocchi,350
+,Garlic Mushroom & Sage Gnocchi,,10,,,gnocchi,350
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,gnocchi,350
+,Tomato & Goats' Cheese Gnocchi,,10,,,gnocchi,350
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,gnocchi,250
+,Prawn & Courgette Noodle Soup,,10,,,ginger paste sachet (15g),15
+,Sticky Ginger Beef Noodles,,10,,,ginger paste,15
+,Chilli Chicken Cashew Noodles,,10,,,ginger & garlic paste,15
+,Smoked Fish & Spinach Pilau Rice,,10,,,ginger & garlic paste,15
+,Chinese Beef & Broccoli Stir-Fry,,10,,,ginger & garlic paste,15
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,ginger & garlic paste,15
+,Sweet Chilli Turkey Noodles,,10,,,ginger & garlic paste,15
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,giant couscous,75
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,gem lettuce,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,garlic cloves,3
+,Chestnut Mushroom Bolognese,,40,,,garlic cloves,3
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,garlic cloves,3
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,garlic cloves,3
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,garlic cloves,3
+,One-Pot Minty Lamb & Potato Stew,,35,,,garlic cloves,3
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,garlic cloves,3
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,garlic cloves,3
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,garlic cloves,3
+,All-In-One Beef Stifado Orzo Stew,,40,,,garlic cloves,2
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,garlic cloves,2
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,garlic cloves,2
+,Asparagus & Goats' Cheese Risotto,,35,,,garlic cloves,2
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,garlic cloves,2
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,garlic cloves,2
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,garlic cloves,2
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,garlic cloves,2
+,Beef Meatballs With Creamy Pappardelle,,25,,,garlic cloves,2
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,garlic cloves,2
+,Courgette & Goats' Cheese Linguine,,20,,,garlic cloves,2
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,garlic cloves,2
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,garlic cloves,2
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,garlic cloves,2
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,garlic cloves,2
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,garlic cloves,2
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,garlic cloves,2
+,King Prawn Paella With Lemon Aioli,,35,,,garlic cloves,2
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,garlic cloves,2
+,Moroccan Chicken With Lemony Couscous,,35,,,garlic cloves,2
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,garlic cloves,2
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,garlic cloves,2
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,garlic cloves,2
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,garlic cloves,2
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,garlic cloves,2
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,garlic cloves,2
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,garlic cloves,2
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,garlic cloves,2
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,garlic cloves,2
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,garlic cloves,2
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,garlic cloves,2
+,Peruvian-Style Prawn & Rice Chowder,,20,,,garlic cloves,2
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,garlic cloves,2
+,Plant-Based Aubergine Pasta Bake,,40,,,garlic cloves,2
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,garlic cloves,2
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,garlic cloves,2
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,garlic cloves,2
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,garlic cloves,2
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,garlic clove,1
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,garlic clove,1
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,garlic clove,1
+,Crispy Chilli Beef Udon Broth,,10,,,garlic clove,1
+,Dijon Salmon With Crushed Potatoes,,10,,,garlic clove,1
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,garlic clove,1
+,Huevos Rancheros With Coriander Oil,,20,,,garlic clove,1
+,Lemony King Prawn Salad With Avo Dressing,,15,,,garlic clove,1
+,Melty Greek Lamb Moussaka,,50,,,garlic clove,1
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,garlic clove,1
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,garlic clove,1
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,garlic clove,1
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,garlic clove,1
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,garlic clove,1
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,garlic clove,1
+,Pasta Alla Genovese,,20,,,garlic clove,1
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,garlic clove,1
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,garlic clove,1
+,Smoky Chicken & Mushroom Linguine,,20,,,garlic clove,1
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,garlic clove,1
+,Spanish Chicken & Charred Pepper Salad,,30,,,garlic clove,1
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,garlic clove,1
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,garlic clove,1
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,garlic clove,1
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,garlic clove,1
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,fusilloni pasta,200
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,fresh root ginger,15
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,fresh root ginger,15
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,fresh root ginger,15
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,fresh root ginger,15
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,fresh root ginger,15
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,fresh root ginger,15
+,Miso-Butter Chicken Noodles,,25,,,fresh root ginger,15
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,fresh root ginger,15
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,fresh root ginger,15
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,fresh root ginger,15
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,fresh root ginger,15
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,fresh root ginger,15
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,fresh lemongrass stalk,1
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,fresh lemongrass stalk,1
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,fresh lemongrass stalk,1
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,fresh lemongrass stalk,1
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,flaked almonds,15
+,Harissa Chickpea & Apricot Tagine,,10,,,flaked almonds,15
+,Moroccan Chicken With Lemony Couscous,,35,,,flaked almonds,15
+,Plant-Based Aubergine Pasta Bake,,40,,,flaked almonds,15
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,flaked almonds,15
+,Spicy Halloumi Stew With Couscous,,10,,,flaked almonds,15
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,flaked almonds,15
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,flaked almonds,15
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,fish sauce,15
+,Chilli Crab & Spring Green Noodles,,10,,,fine egg noodle nests,2
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,fine egg noodle nests,2
+,Mc & Sons' Chicken Khao Soi Curry,,35,,,fine egg noodle nests,2
+,Prawn & Courgette Noodle Soup,,10,,,fine egg noodle nests,2
+,Sticky Ginger Beef Noodles,,10,,,fine egg noodle nests,2
+,Greek Bean Stew With Feta & Baby Kale,,10,,,feta cheese,100
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,feta cheese,100
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,farfalle pasta bows,200
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,farfalle,200
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,edamame & jasmine rice,300
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,dried lime leaves,2
+,Melty Greek Lamb Moussaka,,50,,,dried bay leaves,2
+,Smoked Fish & Corn Chowder,,10,,,dried bay leaves,2
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,dried bay leaf,1
+,All-In-One Beef Stifado Orzo Stew,,40,,,dried bay leaf,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,dried bay leaf,1
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,dried bay leaf,1
+,One-Pot Minty Lamb & Potato Stew,,35,,,dried bay leaf,1
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,dried bay leaf,1
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,dried bay leaf,1
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,dried bay leaf,1
+,Smoked Fish & Corn Chowder,,10,,,dill & chives,10
+,Beef Meatballs With Creamy Pappardelle,,25,,,dill,5
+,Easy One-Pot Haddock & Leek Risotto,,35,,,dill,5
+,"Halloumi, Couscous & Orange Salad",,10,,,dill,5
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,dill,5
+,Dijon Salmon With Crushed Potatoes,,10,,,dill,10
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,Dijon mustard,5
+,Beef Meatballs With Creamy Pappardelle,,25,,,Dijon mustard,5
+,Chicken & Butter Bean Hotpot,,45,,,Dijon mustard,5
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,Dijon mustard,5
+,Creamy Garlic Mushroom Gnocchi,,10,,,Dijon mustard,5
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,Dijon mustard,5
+,Summery Roast Chicken Salad,,30,,,Dijon mustard,5
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,Dijon mustard,5
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,Dijon mustard,18
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,diced chorizo,100
+,Chorizo & Tenderstem Fusilli,,10,,,diced chorizo,100
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,diced chorizo,100
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,diced apricots,30
+,Baharat Beef Stew With Fruity Couscous,,10,,,diced apricots,30
+,Harissa Chickpea & Apricot Tagine,,10,,,diced apricots,30
+,Moroccan Chicken With Lemony Couscous,,35,,,diced apricots,30
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,cumberland sausages,4
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,cucumber,1
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,cucumber,1
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,cucumber,1
+,Mediterranean Fish Gyros,,10,,,cucumber,1
+,Mushroom Biryani With Cucumber Raita,,10,,,cucumber,1
+,Mushroom Biryani With Cucumber Raita,,10,,,crispy onions,15
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,crispy onions,15
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,crispy onions,15
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,cracked black pepper,2
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,crÃ¨me fraÃ®che,100
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,crÃ¨me fraÃ®che,100
+,Creamy Garlic Mushroom Gnocchi,,10,,,crÃ¨me fraÃ®che,100
+,Creamy Haddock Florentine Spaghetti,,10,,,crÃ¨me fraÃ®che,100
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,crÃ¨me fraÃ®che,100
+,Dijon Salmon With Crushed Potatoes,,10,,,crÃ¨me fraÃ®che,100
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,crÃ¨me fraÃ®che,100
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,crÃ¨me fraÃ®che,100
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,crÃ¨me fraÃ®che,100
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,crÃ¨me fraÃ®che,100
+,Baharat Beef Stew With Fruity Couscous,,10,,,couscous,120
+,"Golden Halloumi, Tzatziki & Fruity Couscous",,10,,,couscous,120
+,"Halloumi, Couscous & Orange Salad",,10,,,couscous,120
+,Harissa Chickpea & Apricot Tagine,,10,,,couscous,120
+,Moroccan Chicken With Lemony Couscous,,35,,,couscous,120
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,couscous,120
+,Spicy Halloumi Stew With Couscous,,10,,,couscous,120
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,couscous,120
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,courgette,1
+,Courgette & Goats' Cheese Linguine,,20,,,courgette,1
+,Jumbo Prawn Saganaki,,10,,,courgette,1
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,courgette,1
+,Moroccan Chicken With Lemony Couscous,,35,,,courgette,1
+,Prawn & Courgette Noodle Soup,,10,,,courgette,1
+,Warm Halloumi Salad With Green Tomato Dressing ,,15,,,courgette,1
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,cornichons,50
+,Chilli Chicken Cashew Noodles,,10,,,cornflour,3
+,Chinese Beef & Broccoli Stir-Fry,,10,,,cornflour,3
+,Speedy Teriyaki Salmon Noodles,,15,,,cornflour,3
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,cornflour,3
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,cornflour,3
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,coriander & mint,10
+,Chilli Crab & Spring Green Noodles,,10,,,coriander,5
+,Crispy Chilli Beef Udon Broth,,10,,,coriander,5
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,coriander,5
+,Peruvian-Style Prawn & Rice Chowder,,20,,,coriander,5
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,coriander,5
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,coriander,5
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,coriander,5
+,Huevos Rancheros With Coriander Oil,,20,,,coriander,20
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,coriander,20
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,coriander,10
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,coriander,10
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,coriander,10
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,coriander,10
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,coriander,10
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,conchiglie,200
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,coconut yoghurt,80
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,coconut yoghurt,80
+,Creamy Pesto Salmon Fusilli,,10,,,classic basil nut pesto,45
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,cider vinegar,30
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,cider vinegar,15
+,Summery Roast Chicken Salad,,30,,,cider vinegar,15
+,Jumbo Prawn Saganaki,,10,,,ciabattas,2
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,ciabattas,2
+,Smoked Fish & Corn Chowder,,10,,,ciabattas,2
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,ciabattas,2
+,Summery Roast Chicken Salad,,30,,,ciabatta rolls,2
+,Greek Bean Stew With Feta & Baby Kale,,10,,,ciabatta rolls,2
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,ciabatta rolls,2
+,Harissa Haddock Stew With Yoghurt,,10,,,ciabatta,1
+,Lemony King Prawn Salad With Avo Dressing,,15,,,ciabatta,1
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,chopped pepper & pineapple,300
+,Baharat Beef Stew With Fruity Couscous,,10,,,chopped dates,30
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,chopped dates,30
+,Chinese Beef & Broccoli Stir-Fry,,10,,,chopped broccoli & green beans,300
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,chives,5
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,chives,5
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,chives,5
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,chives,5
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,chipotle paste,40
+,Peruvian-Style Haddock & Sweet Potato Stew,,30,,,chipotle paste,20
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,chipotle paste,20
+,Huevos Rancheros With Coriander Oil,,20,,,chipotle paste,20
+,"Pink Pesto, Prawn & Pepper Linguine",,20,,,Chinese rice wine sachet (30ml),30
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,Chinese rice wine (30ml),30
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,Chinese rice wine,30
+,Tomato & Goats' Cheese Gnocchi,,10,,,Chinese rice wine,30
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,Chinese rice wine,30
+,Jumbo Prawn Saganaki,,10,,,Chinese rice wine,30
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,Chinese rice wine,30
+,Asparagus & Goats' Cheese Risotto,,35,,,Chinese rice wine,15
+,Beef Meatballs With Creamy Pappardelle,,25,,,Chinese rice wine,15
+,Creamy Haddock Spaghetti With Chilli,,10,,,Chinese rice wine,15
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,Chinese rice wine,15
+,Smoked Fish & Corn Chowder,,10,,,Chinese rice wine,15
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,Chinese rice wine,15
+,Sticky Ginger Beef Noodles,,10,,,chilli jam,40
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,chilli jam,40
+,Sweet Chilli Turkey Noodles,,10,,,chilli jam,40
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,chilli jam,25
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,chicken stock mix sachet (5.5g),5
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,chicken stock mix sachet (5.5g),5
+,Chicken & Butter Bean Hotpot,,45,,,chicken stock mix sachet (11g),11
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,chicken stock mix sachet (11g),11
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,chicken stock mix,5
+,Moroccan Chicken With Lemony Couscous,,35,,,chicken stock mix,5
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,chicken stock mix,11
+,Smoky Chicken Goulash With Basmati Rice,,25,,,chicken stock mix,11
+,Cheesy Pepperoni Pasta Bake,,35,,,chicken stock mix,5
+,"Creamy Sausage, Kale & Lemon Tortiglioni",,20,,,chicken stock mix,5
+,Smoky Chicken & Mushroom Linguine,,20,,,chicken stock mix,5
+,Baked Creamy Chorizo & Leek Pasta With Rocket,,30,,,chicken stock mix,11
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,chicken stock mix,11
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,chicken stock mix,11
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,chicken stock mix,11
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,chicken stock mix,11
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,chicken stock mix,11
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,chicken stock mix,11
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,chicken stock mix,11
+,Smoky Chicken & Mushroom Linguine,,20,,,chestnut mushrooms,80
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,chestnut mushrooms,80
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,chestnut mushrooms,80
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,chestnut mushrooms,80
+,Garlic Mushroom & Sage Gnocchi,,10,,,chestnut mushrooms,250
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,chestnut mushrooms,160
+,Chestnut Mushroom Bolognese,,40,,,chestnut mushrooms,160
+,Creamy Garlic Mushroom Gnocchi,,10,,,chestnut mushrooms,160
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,chestnut mushrooms,160
+,Mushroom Biryani With Cucumber Raita,,10,,,chestnut mushrooms,160
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,chestnut mushrooms,160
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,chestnut mushrooms,160
+,Smoky Chicken Goulash With Basmati Rice,,25,,,chestnut mushrooms,160
+,"Chilli, Garlic & Jumbo Prawn Spaghetti",,10,,,cherry tomatoes,250
+,Creamy Pesto Salmon Fusilli,,10,,,cherry tomatoes,250
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,cherry tomatoes,250
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,cherry tomatoes,250
+,Tomato & Goats' Cheese Gnocchi,,10,,,cherry tomatoes,250
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,cherry tomatoes,250
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,cherry tomatoes,125
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,cherry tomatoes,125
+,Cheesy Pepperoni Pasta Bake,,35,,,cherry tomatoes,125
+,Chorizo & Tenderstem Fusilli,,10,,,cherry tomatoes,125
+,Creamy Haddock Florentine Spaghetti,,10,,,cherry tomatoes,125
+,Creamy Haddock Spaghetti With Chilli,,10,,,cherry tomatoes,125
+,Greek Bean Stew With Feta & Baby Kale,,10,,,cherry tomatoes,125
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,cherry tomatoes,125
+,Plant-Based Aubergine Pasta Bake,,40,,,cherry tomatoes,125
+,Speedy Harissa & Tomato Haddock With Couscous,,15,,,cherry tomatoes,125
+,Summery Roast Chicken Salad,,30,,,cherry tomatoes,125
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,cherry tomatoes,125
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,cherry tomatoes,125
+,Plant-Based Aubergine Pasta Bake,,40,,,cheese flavour slices,2
+,Cheesy Pepperoni Pasta Bake,,35,,,cheddar cheese,80
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,cheddar cheese,40
+,Asparagus & Goats' Cheese Risotto,,35,,,cheddar cheese,40
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,cheddar cheese,40
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,cheddar cheese,40
+,Chestnut Mushroom Bolognese,,40,,,cheddar cheese,40
+,Garlic Mushroom & Sage Gnocchi,,10,,,cheddar cheese,40
+,Melty Greek Lamb Moussaka,,50,,,cheddar cheese,40
+,"One-Pot Haddock, Leek & Cheddar Chowder",,25,,,cheddar cheese,40
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,cheddar cheese,40
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,cheddar cheese,40
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,cheddar cheese,40
+,One-Pot Minty Lamb & Potato Stew,,35,,,Chantenay carrots,160
+,Chilli Chicken Cashew Noodles,,10,,,cashew nuts,25
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,cashew nuts,25
+,Pasta Alla Genovese,,20,,,cashew nuts,25
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,carrots,2
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,carrot,1
+,Chestnut Mushroom Bolognese,,40,,,carrot,1
+,Chicken & Butter Bean Hotpot,,45,,,carrot,1
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,carrot,1
+,Chunky Shepherds Pie With Buttery Greens,,55,,,carrot,1
+,Crispy Chilli Beef Udon Broth,,10,,,carrot,1
+,"Halloumi, Couscous & Orange Salad",,10,,,carrot,1
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,carrot,1
+,Sweet Chilli Turkey Noodles,,10,,,carrot,1
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,carrot,1
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,cardamom pods,3
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,cardamom pods,2
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,capers,15
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,capers,15
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,capers,15
+,Mediterranean Fish Gyros,,10,,,capers,15
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,capers,15
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,canned tomato frito,200
+,Creamy Haddock Spaghetti With Chilli,,10,,,canned tomato frito,200
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,canned tomato frito,200
+,Harissa Chickpea & Apricot Tagine,,10,,,canned tomato frito,200
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,canned tomato frito,200
+,Huevos Rancheros With Coriander Oil,,20,,,canned tomato frito,200
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,canned tomato frito,200
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,canned sweetcorn,150
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,canned sweetcorn,150
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,canned sweetcorn,150
+,Smoked Fish & Corn Chowder,,10,,,canned sweetcorn,150
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,canned red kidney beans,400
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,canned pineapple,220
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,canned pineapple,220
+,Speedy Prawn & Pineapple Stir-Fry,,25,,,canned pineapple,220
+,Cheesy Lentil & Tomato Stuffed Portobellos,,15,,,canned green lentils,400
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,canned green lentils,185
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,canned green lentils,185
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,canned finely chopped tomatoes,400
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,canned finely chopped tomatoes,210
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,canned finely chopped tomatoes,210
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,canned finely chopped tomatoes,210
+,Chunky Shepherds Pie With Buttery Greens,,55,,,canned finely chopped tomatoes,210
+,Melty Greek Lamb Moussaka,,50,,,canned finely chopped tomatoes,210
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,canned finely chopped tomatoes,210
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,canned finely chopped tomatoes,210
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,canned finely chopped tomatoes,210
+,Plant-Based Aubergine Pasta Bake,,40,,,canned finely chopped tomatoes,210
+,Spicy Halloumi Stew With Couscous,,10,,,canned finely chopped tomatoes,210
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,canned finely chopped tomatoes,210
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,canned finely chopped tomatoes,210
+,Baharat Beef Stew With Fruity Couscous,,10,,,canned chickpeas,400
+,Harissa Chickpea & Apricot Tagine,,10,,,canned chickpeas,400
+,Harissa Haddock Stew With Yoghurt,,10,,,canned chickpeas,400
+,One-Pot Smoky Spanish Fish Stew & Giant Couscous,,30,,,canned chickpeas,185
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,canned cannellini beans,400
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,canned butter beans,400
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,canned butter beans,400
+,Chicken & Butter Bean Hotpot,,45,,,canned butter beans,185
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,canned butter beans,185
+,Oven-Baked Three Bean Chilli With Jacket Potatoes,,50,,,canned black beans,185
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,canned black beans,400
+,Huevos Rancheros With Coriander Oil,,20,,,canned black beans,400
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,canned black beans,400
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,canned black beans,400
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,canned black beans,400
+,Greek Bean Stew With Feta & Baby Kale,,10,,,can of tomato frito (200g),200
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,can of finely chopped tomatoes (210g),210
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,can of cannellini beans (185g),185
+,Greek Bean Stew With Feta & Baby Kale,,10,,,can of butter beans (400g),400
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,butternut squash cubes,320
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,butternut squash cubes,160
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,butternut squash cubes,160
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,butternut squash cubes,160
+,Burns Night Venison Burger With Neep & Tattie Fries,,40,,,butter brioche buns,2
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,bulgur wheat,130
+,All-In-One Fragrant Coconutty Haddock Curry,,30,,,brown rice,100
+,All-In-One Beef Stifado Orzo Stew,,40,,,brown onion,1
+,Asparagus & Goats' Cheese Risotto,,35,,,brown onion,1
+,Chestnut Mushroom Bolognese,,40,,,brown onion,1
+,Chunky Shepherds Pie With Buttery Greens,,55,,,brown onion,1
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,brown onion,1
+,King Prawn Paella With Lemon Aioli,,35,,,brown onion,1
+,Korean Prawn Jjam-Pong Noodle Soup,,25,,,brown onion,1
+,Moroccan Chicken With Lemony Couscous,,35,,,brown onion,1
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,brown onion,1
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,brown onion,1
+,Peruvian-Style Prawn & Rice Chowder,,20,,,brown onion,1
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,brown onion,1
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,brown onion,1
+,Smoky Chicken & Mushroom Linguine,,20,,,brown onion,1
+,Smoky Chicken Goulash With Basmati Rice,,25,,,brown onion,1
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,brown onion,1
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,brown onion,1
+,Chinese Beef & Broccoli Stir-Fry,,10,,,broccoli brown rice,300
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,British smoked mackerel fillet,100
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,British skinless chicken thighs,320
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,British skinless chicken thighs,320
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,British skinless chicken thighs,320
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,British skinless chicken thighs,320
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,British skin on chicken thighs,320
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,British pork mince,250
+,"Smoky Pork, Pineapple & Red Onion Tacos",,25,,,British pork mince,250
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,British lean beef mince (<5% fat),1250
+,Melty Greek Lamb Moussaka,,50,,,British lamb mince,250
+,One-Pot Spiced Lamb & Feta Orzo ,,40,,,British lamb mince,250
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,British lamb mince,250
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,British lamb mince,250
+,Chunky Shepherds Pie With Buttery Greens,,55,,,British lamb mince,250
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,British lamb mince,250
+,One-Pot Minty Lamb & Potato Stew,,35,,,British lamb mince,250
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,British lamb mince,250
+,Huevos Rancheros With Coriander Oil,,20,,,British free-range eggs,2
+,Sticky Teriyaki Mushroom Donburi Bowl,,30,,,British free-range eggs,2
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,British free-range egg,1
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,British free-range egg,1
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,British free-range egg,1
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,British diced chorizo,100
+,Chicken & Butter Bean Hotpot,,45,,,British diced chicken thigh,250
+,Chilli Chicken Cashew Noodles,,10,,,British diced chicken thigh,250
+,Miso-Butter Chicken Noodles,,25,,,British diced chicken thigh,250
+,"One-Pot Chicken, Mushroom & Sweetcorn Noodles",,35,,,British diced chicken thigh,250
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,British diced chicken thigh,250
+,"One-Pot Spicy Chicken, Mushroom & Sweetcorn Noodles",,35,,,British diced chicken thigh,250
+,One-Pot Thai Red Chicken Noodle Soup,,35,,,British diced chicken thigh,250
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,British diced chicken thigh,250
+,Chicken Tikka Naan With Indian Salad And Minty Yoghurt,,10,,,British diced chicken breast,250
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,British diced chicken breast,250
+,Sweet 'N' Sour Chicken With Edamame Rice,,10,,,British diced chicken breast,250
+,Moroccan Chicken With Lemony Couscous,,35,,,British chicken thighs,320
+,One-Pot Black Pepper Chicken Dal & Naan,,30,,,British chicken thighs,320
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,British chicken thighs,320
+,Smoky Chicken & Mushroom Linguine,,20,,,British chicken breasts,2
+,"Smoky Spanish Chicken, Patatas Bravas & Aioli",,30,,,British chicken breasts,2
+,Spanish Chicken & Charred Pepper Salad,,30,,,British chicken breasts,2
+,Summery Roast Chicken Salad,,30,,,British chicken breasts,2
+,Sweet 'N' Smoky BBQ Chicken Fajitas,,20,,,British chicken breasts,2
+,Chicken Caesar Salad & Focaccia Croutons,,10,,,British chicken breast strips,250
+,Grilled Peanut Butter Chicken & Vibrant Noodles,,15,,,British chicken breast strips,250
+,All-In-One Beef Stifado Orzo Stew,,40,,,British beef strips,250
+,Chinese Beef & Broccoli Stir-Fry,,10,,,British beef strips,250
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,British beef strips,250
+,Baharat Beef Stew With Fruity Couscous,,10,,,British beef mince,250
+,Beef Meatballs With Creamy Pappardelle,,25,,,British beef mince,250
+,Crispy Chilli Beef Udon Broth,,10,,,British beef mince,250
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,British beef mince,250
+,Sticky Ginger Beef Noodles,,10,,,British beef mince,250
+,Lighter 'Creamy' Mushroom & Bacon Linguine,,20,,,British bacon lardons,100
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,blanched peas,160
+,Baked Spring Veg Casserole With Honey Chicken,,45,,,blanched peas,160
+,Hawaiian-Style Huli Huli Grilled Chicken Poke,,40,,,blanched peas,160
+,"One-Pot Creamy Haddock, Pea & Potato Casserole",,40,,,blanched peas,160
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,blanched peas,160
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,blanched peas,160
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,blanched edamame beans,160
+,Honey & Garlic Pork Noodles With Smashed Cucumber,,10,,,black sesame seeds,5
+,Miso Tofu With Stir-Fried Ginger Greens,,15,,,black sesame seeds,5
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,black sesame seeds,5
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,black sesame seeds,5
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,black mustard seeds,3
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,black bean paste,40
+,All-In-One Beef Stifado Orzo Stew,,40,,,beef stock mix sachet (11g),11
+,One-Pot Minty Lamb & Potato Stew,,35,,,beef stock mix sachet (11g),11
+,Beef Meatballs With Creamy Pappardelle,,25,,,beef stock mix,5
+,One-Pot Turkish-Style Lamb Bulgur Pilaf,,45,,,beef stock mix,11
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,beef stock mix,5
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,beef stock mix,11
+,Baharat Beef Stew With Fruity Couscous,,10,,,beef stock mix,11
+,Baked Spicy Minced Lamb Stew With Yoghurt & Dill,,45,,,beef stock mix,11
+,Chunky Shepherds Pie With Buttery Greens,,55,,,beef stock mix,11
+,Crispy Chilli Beef Udon Broth,,10,,,beef stock mix,11
+,Melty Greek Lamb Moussaka,,50,,,beef stock mix,11
+,One-Pot Baked Beef Stroganoff Tortiglioni,,30,,,beef stock mix,11
+,Oven-Baked Lean Beef Mince & Black Bean Chilli,,35,,,beef stock mix,11
+,Oven-Baked Mexican Beef & Black Bean Chilli,,35,,,beef stock mix,11
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,basmati rice,130
+,Baked Butternut Squash Biryani With Coconut Yoghurt,,25,,,basmati rice,130
+,King Prawn Paella With Lemon Aioli,,35,,,basmati rice,130
+,Salt & Pepper Chicken With Egg Fried Rice,,30,,,basmati rice,130
+,Sweet Chilli Chicken With Veg Packed Rice,,25,,,basmati rice,130
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,basmati rice,100
+,Peruvian-Style Prawn & Rice Chowder,,20,,,basmati rice,100
+,Smoky Chicken Goulash With Basmati Rice,,25,,,basmati rice,100
+,Warming King Prawn Bhuna With Rice And Naan,,30,,,basmati rice,100
+,Baked Ratatouille Fusilloni With Goats' Cheese,,35,,,basil,5
+,Cheesy Pepperoni Pasta Bake,,35,,,basil,5
+,Creamy Garlic Mushroom Gnocchi,,10,,,basil,5
+,Creamy Pesto Salmon Fusilli,,10,,,basil,5
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,basil,5
+,Kickin' Cajun Chicken & Sweetcorn Casserole,,25,,,basil,5
+,Lemony King Prawn Salad With Avo Dressing,,15,,,basil,5
+,One-Pot Creamy Sun-Dried Tomato & Chicken Stew,,35,,,basil,5
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,basil,5
+,Oven-Baked Spicy Prawn Arrabbiata Farfalle,,35,,,basil,5
+,Garlicky Prawns With Tomato & Green Butter Orzo,,35,,,basil,20
+,Pasta Alla Genovese,,20,,,basil,20
+,Plant-Based Aubergine Pasta Bake,,40,,,basil,20
+,Chestnut Mushroom Bolognese,,40,,,basil,10
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,basil,10
+,Tomato & Goats' Cheese Gnocchi,,10,,,basil,10
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,balsamic vinegar sachet (15ml),15
+,All-In-One Lamb RagÃ¹ Pasta With Chilli & Mint,,50,,,balsamic vinegar,15
+,Chestnut Mushroom Bolognese,,40,,,balsamic vinegar,15
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,balsamic vinegar,15
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,balsamic vinegar,15
+,"Oven-Baked Feta, Tomato & Tenderstem Farfalle",,30,,,balsamic vinegar,15
+,Plant-Based Aubergine Pasta Bake,,40,,,balsamic vinegar,15
+,Nutty Lemongrass & Haddock Stir Fry,,25,,,bag of roasted peanuts (25g),25
+,One-Pot Pulled Chicken Cacciatore With Ciabatta,,45,,,bag of pitted black olives (30g),30
+,All-In-One Beef Stifado Orzo Stew,,40,,,baby plum tomatoes,125
+,"Fiery Tomato, Crab & Fennel Pappardelle ",,30,,,baby plum tomatoes,125
+,Simple Smoked Fish Florentine Bake,,45,,,baby leaf spinach,150
+,10-Min Creamy Chorizo Gnocchi With Spinach,,10,,,baby leaf spinach,80
+,Creamy Garlic Mushroom Gnocchi,,10,,,baby leaf spinach,80
+,Creamy Haddock Florentine Spaghetti,,10,,,baby leaf spinach,80
+,Creamy Tarragon & Mustard Lentil Chicken,,10,,,baby leaf spinach,80
+,Halloumi-Topped Tomatoey Smoked Beans  ,,15,,,baby leaf spinach,80
+,Hearty Lamb RagÃ¹ Gnocchi Bake,,30,,,baby leaf spinach,80
+,Lemony King Prawn Salad With Avo Dressing,,15,,,baby leaf spinach,80
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,baby leaf spinach,80
+,Scandi-Style Mackerel & Potato Salad With Spinach,,20,,,baby leaf spinach,80
+,Scott & Wilson's Squash & Garlic Mushroom Gnocchi,,40,,,baby leaf spinach,80
+,Smoked Fish & Spinach Pilau Rice,,10,,,baby leaf spinach,80
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,baby leaf spinach,80
+,Spicy Halloumi Stew With Couscous,,10,,,baby leaf spinach,80
+,Spicy Halloumi Stew With Sultana Couscous,,10,,,baby leaf spinach,80
+,Spicy Rainbow Veg & Black Bean Curry,,15,,,baby leaf spinach,80
+,Beef Meatballs With Creamy Pappardelle,,25,,,baby leaf spinach,120
+,"Chorizo, Caper & Spinach Spaghetti",,10,,,baby leaf spinach,120
+,Tangy Tomato & Goats' Cheese Linguine,,20,,,baby leaf spinach,120
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,baby leaf salad,50
+,"Halloumi, Couscous & Orange Salad",,10,,,baby leaf salad,50
+,Lebanese-Style Halloumi Wraps With Tahini Sauce,,10,,,baby leaf salad,50
+,Mediterranean Fish Gyros,,10,,,baby leaf salad,50
+,Seeded Goats' Cheese & Sweet Potato Salad,,30,,,baby leaf salad,50
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,baby leaf salad,50
+,Warm Goats' Cheese & Sun-Dried Tomato Salad,,30,,,baby leaf salad,50
+,Greek Bean Stew With Feta & Baby Kale,,10,,,baby kale,50
+,Pak Choi & Baby Corn Black Bean Stir-Fry,,10,,,baby corn,120
+,3-Mushroom Stroganoff & Herby Walnut Rice,,30,,,baby button mushrooms,80
+,Chestnut Mushroom Bolognese,,40,,,baby button mushrooms,80
+,Chicken & Butter Bean Hotpot,,45,,,baby button mushrooms,80
+,Plant-Based Creamy Truffle Mushroom Amorini,,10,,,baby button mushrooms,80
+,Black Bean & Butternut Chilli With Feta And Avocado,,30,,,avocado,1
+,Lemony King Prawn Salad With Avo Dressing,,15,,,avocado,1
+,Melty Greek Lamb Moussaka,,50,,,aubergine,1
+,Oven-Baked Autumn Ratatouille With Saffron Rice ,,50,,,aubergine,1
+,Plant-Based Aubergine Pasta Bake,,40,,,aubergine,1
+,Asparagus & Goats' Cheese Risotto,,35,,,asparagus spears,120
+,Asparagus & Goats' Cheese Risotto,,35,,,arborio rice,160
+,"Baked Saffron, Prawn & Pea Risotto With Lemon",,35,,,arborio rice,160
+,Easy One-Pot Haddock & Leek Risotto,,35,,,arborio rice,160
+,Oven-Baked Cheesy Portobello Mushroom Risotto,,35,,,arborio rice,160
+,Smoked Mackerel & Lemon Risotto With Pea Shoots,,35,,,arborio rice,160
+,Oven-Baked Normandy Chicken & Apple Casserole,,35,,,apple,1
+,Smoked Mackerel & Pickled Red Cabbage Salad,,10,,,apple,1
+,Creamy Leek Orzo With 'Nduja Jumbo Prawns,,25,,,'Nduja,40
+,Spicy 'Nduja Spaghetti Carbonara,,10,,,'Nduja,40
