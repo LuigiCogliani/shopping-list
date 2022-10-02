@@ -1,0 +1,1 @@
+streamlit run gousto_recipes.py

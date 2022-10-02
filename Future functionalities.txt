@@ -1,0 +1,7 @@
+0. ingredients bu number of people
+1. button next to recipe pic to add it to add it to the list
+2. show recipes by single ingredient
+3. show recipes by list of ingredients
+4. sort ingredients by grocery store aisles
+5. add tags to recipes 
+6. recipes as list, then click on item to show recipe card
